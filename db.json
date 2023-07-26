@@ -4,73 +4,73 @@
             "id": 1,
             "title": "Barbie (2023)",
             "cover": "https://i.ibb.co/LJvY8Y9/1.png",
-            "link": "https://www.youtube.com/watch?v=8zIf0XvoL9Y"
+            "link": "https://www.youtube.com/embed/8zIf0XvoL9Y"
         },
         {
             "id": 2,
             "title": "Tangled (2010)",
-            "cover": "https://i.ibb.co/fXBvDyF/2.png",
-            "link": "https://www.youtube.com/watch?v=2f516ZLyC6U"
+            "cover": "https://i.ibb.co/4K1tLmb/3.png",
+            "link": "https://www.youtube.com/embed/2f516ZLyC6U"
         },
         {
             "id": 3,
             "title": "Eternal Sunshine of the Spotless Mind (2004)",
-            "cover": "https://i.ibb.co/4K1tLmb/3.png",
-            "link": "https://www.youtube.com/watch?v=07-QBnEkgXU"
+            "cover": "https://i.ibb.co/0C67fNc/4.png",
+            "link": "https://www.youtube.com/embed/07-QBnEkgXU"
         },
         {
             "id": 4,
             "title": "About Time (2013)",
-            "cover": "https://i.ibb.co/0C67fNc/4.png",
-            "link": "https://www.youtube.com/watch?v=T7A810duHvw"
+            "cover": "https://i.ibb.co/fXBvDyF/2.png",
+            "link": "https://www.youtube.com/embed/T7A810duHvw"
         },
         {
             "id": 5,
             "title": "The Truman Show (1998)",
             "cover": "https://i.ibb.co/hfR1KYp/5.png",
-            "link": "https://www.youtube.com/watch?v=dlnmQbPGuls"
+            "link": "https://www.youtube.com/embed/dlnmQbPGuls"
         },
         {
             "id": 6,
             "title": "John Wick: Chapter 4 (2023)",
             "cover": "https://i.ibb.co/0Qhdmhx/6.png",
-            "link": "https://www.youtube.com/watch?v=qEVUtrk8_B4"
+            "link": "https://www.youtube.com/embed/qEVUtrk8_B4"
         },
         {
             "id": 7,
             "title": "The Perks of Being a Wallflower (2012)",
             "cover": "https://i.ibb.co/h1pqSqb/7.png",
-            "link": "https://www.youtube.com/watch?v=n5rh7O4IDc0"
+            "link": "https://www.youtube.com/embed/n5rh7O4IDc0"
         },
         {
             "id": 8,
             "title": "Flipped (2010)",
             "cover": "https://i.ibb.co/zJMSTSz/8.png",
-            "link": "https://www.youtube.com/watch?v=q40GxY5n2Dg"
+            "link": "https://www.youtube.com/embed/q40GxY5n2Dg"
         },
         {
             "id": 9,
             "title": "The Fabelmans (2022)",
             "cover": "https://i.ibb.co/Bymr3C8/9.png",
-            "link": "https://www.youtube.com/watch?v=D1G2iLSzOe8"
+            "link": "https://www.youtube.com/embed/D1G2iLSzOe8"
         },
         {
             "id": 10,
             "title": "The Banshees of Inisherin (2022)",
             "cover": "https://i.ibb.co/KN9mRrW/10.png",
-            "link": "https://www.youtube.com/watch?v=uRu3zLOJN2c"
+            "link": "https://www.youtube.com/embed/uRu3zLOJN2c"
         },
         {
             "id": 11,
             "title": "Everything Everywhere All at Once (2022)",
             "cover": "https://i.ibb.co/cTCp4nj/11.png",
-            "link": "https://www.youtube.com/watch?v=wxN1T1uxQ2g"
+            "link": "https://www.youtube.com/embed/wxN1T1uxQ2g"
         },
         {
             "id": 12,
             "title": "All Quiet on the Western Front (2022)",
             "cover": "https://i.ibb.co/S5BSqds/12.png",
-            "link": "https://www.youtube.com/watch?v=hf8EYbVxtCY"
+            "link": "https://www.youtube.com/embed/hf8EYbVxtCY"
         }
     ]
 }
